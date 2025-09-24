@@ -1,2 +1,2 @@
-# W-rter_bilden
+# Woerter_bilden
 Fanks Projekt Nummer 2
