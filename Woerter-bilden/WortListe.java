@@ -16,7 +16,9 @@ public class WortListe {
                                     "SCHULHOF", "PAUSENBROT", "HEIZUNG", "RAUMSCHIFF", "INFORMATIK", "DEUTSCHLAND", 
                                     "TISCH", "BUCHSCHTABEN", "TEXT", "SCHNEEFLOCKE", "REGENSCHAUER", "KOERPER", 
                                     "ZIRKEL", "FLAGGE", "QUALLE", "GESETZE", "GEOGRAFIE", "CHINA", "AMERIKA", 
-                                    "AUTOGRAMM"};
+                                    "AUTOGRAMM", "BRILLE", "FIEBER", "RESTAURANT", "KELLNER", "MUSIK", "ARBEITEN", "KUNST", 
+                                    "ADVENT", "FRUEHLING", "FAMILIE", "SUEDKOREA", "GEREDE", "COMPUTER", "LIEDER", "KASTEN", 
+                                    "REISEN", "TAFEL", "PROGRAMMIEREN", "SEOUL", "ORT", "ROT", "STADT", "INFRAROT", };
         aAnzahlWoerter = beispielWoerter.length;
         woerter = new Wort[aAnzahlWoerter];
         for (int i = 0; i < aAnzahlWoerter; i++) {
