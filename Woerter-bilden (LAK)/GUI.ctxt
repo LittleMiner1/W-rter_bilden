@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=GUI
+comment1.params=pSteuerung
+comment1.target=GUI(Steuerung)
+comment10.params=buchstaben
+comment10.target=void\ anzeigenAufgabe(java.lang.String)
+comment11.params=
+comment11.target=void\ loescheLoesung()
+comment12.params=
+comment12.target=void\ ausblendenBanner()
+comment2.params=
+comment2.target=void\ clickStart()
+comment3.params=
+comment3.target=void\ clickFertig()
+comment4.params=
+comment4.target=void\ clickOk()
+comment5.params=
+comment5.target=java.lang.String\ gibSpielTyp()
+comment6.params=
+comment6.target=java.lang.String\ leseLoesung()
+comment7.params=punkte1\ punkte2
+comment7.target=void\ anzeigenPunkte(int,\ int)
+comment8.params=name
+comment8.target=void\ anzeigenAmZug(java.lang.String)
+comment9.params=text
+comment9.target=void\ anzeigenMeldung(java.lang.String)
+numComments=13
